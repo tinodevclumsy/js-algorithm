@@ -4,7 +4,7 @@
 let stack = []
 
 stack.push(1) // [1]
-stack.push(2) // [2]
+stack.push(2) // [1,2]
 
 console.log(stack);
 let p = stack.pop() // 2
